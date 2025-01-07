@@ -44,7 +44,7 @@ The last thing to do before execution is to grab the server ID of where the bot 
 CHANNEL_ID=
 ```
 
-Once that is done, you're all set! Simply execute the "bot.py" file in your code's root directory and you should be off to the races!
+Once that is done, you're all set! Simply ensure the packages found in "requirements.txt" are installed in your python enviornment and execute the "bot.py" file in your code's root directory and you should be off to the races!
 
 
 ## Disclaimer
